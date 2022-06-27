@@ -1,0 +1,615 @@
+06/27/22 12:13:52 P:INFO:
+
+06/27/22 12:13:52 P:INFO:====== WebDriver manager ======
+06/27/22 12:13:52 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 12:13:52 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 12:13:55 P:INFO:There is no [mac64] chromedriver for browser 103.0.5060 in cache
+06/27/22 12:13:55 P:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_mac64.zip
+06/27/22 12:13:56 P:INFO:Driver has been saved in cache [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53]
+06/27/22 12:13:59 P:INFO:************ Launch the Browser **************
+06/27/22 12:14:10 P:INFO:*************Home Page Title verification is passed *************
+06/27/22 12:14:10 P:INFO:
+
+06/27/22 12:14:10 P:INFO:====== WebDriver manager ======
+06/27/22 12:14:10 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 12:14:10 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 12:14:10 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 12:14:12 P:INFO:************ Launch the Browser **************
+06/27/22 12:14:19 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 12:14:29 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 12:14:37 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 12:14:39 P:INFO:********** Click on Login button **************
+06/27/22 12:14:49 P:INFO:************** Login Page URL Title verification Passed***************
+06/27/22 01:22:44 P:INFO:
+
+06/27/22 01:22:44 P:INFO:====== WebDriver manager ======
+06/27/22 01:22:44 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 01:22:44 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 01:22:47 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 01:22:49 P:INFO:************ Launch the Browser **************
+06/27/22 01:23:00 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 01:23:00 P:INFO:
+
+06/27/22 01:23:00 P:INFO:====== WebDriver manager ======
+06/27/22 01:23:00 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 01:23:00 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 01:23:00 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 01:23:02 P:INFO:************ Launch the Browser **************
+06/27/22 01:23:09 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 01:23:19 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 01:23:27 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 01:23:29 P:INFO:********** Click on Login button **************
+06/27/22 01:26:47 P:INFO:
+
+06/27/22 01:26:47 P:INFO:====== WebDriver manager ======
+06/27/22 01:26:48 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 01:26:48 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 01:26:48 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 01:26:50 P:INFO:************ Launch the Browser **************
+06/27/22 01:27:00 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 01:27:00 P:INFO:
+
+06/27/22 01:27:00 P:INFO:====== WebDriver manager ======
+06/27/22 01:27:00 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 01:27:00 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 01:27:00 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 01:27:02 P:INFO:************ Launch the Browser **************
+06/27/22 01:27:09 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 01:27:19 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 01:27:27 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 01:27:29 P:INFO:********** Click on Login button **************
+06/27/22 01:33:53 P:INFO:
+
+06/27/22 01:33:53 P:INFO:====== WebDriver manager ======
+06/27/22 01:33:53 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 01:33:53 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 01:33:53 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 01:33:55 P:INFO:************ Launch the Browser **************
+06/27/22 01:34:05 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 01:34:05 P:INFO:
+
+06/27/22 01:34:05 P:INFO:====== WebDriver manager ======
+06/27/22 01:34:06 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 01:34:06 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 01:34:06 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 01:34:08 P:INFO:************ Launch the Browser **************
+06/27/22 01:34:14 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 01:34:25 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 01:34:33 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 01:34:35 P:INFO:********** Click on Login button **************
+06/27/22 01:34:45 P:INFO:*************** Login Page URL is invalid ********************
+06/27/22 02:33:44 P:INFO:
+
+06/27/22 02:33:44 P:INFO:====== WebDriver manager ======
+06/27/22 02:33:44 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:33:44 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:33:45 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:33:47 P:INFO:************ Launch the Browser **************
+06/27/22 02:33:57 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 02:33:57 P:INFO:
+
+06/27/22 02:33:57 P:INFO:====== WebDriver manager ======
+06/27/22 02:33:57 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:33:57 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:33:58 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:34:00 P:INFO:************ Launch the Browser **************
+06/27/22 02:34:06 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 02:34:16 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 02:34:25 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 02:34:27 P:INFO:********** Click on Login button **************
+06/27/22 02:34:37 P:INFO:*************** Login Page URL is invalid ********************
+06/27/22 02:44:33 P:INFO:
+
+06/27/22 02:44:33 P:INFO:====== WebDriver manager ======
+06/27/22 02:44:33 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:44:33 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:44:34 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:44:36 P:INFO:************ Launch the Browser **************
+06/27/22 02:44:47 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 02:44:47 P:INFO:
+
+06/27/22 02:44:47 P:INFO:====== WebDriver manager ======
+06/27/22 02:44:47 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:44:47 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:44:47 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:44:49 P:INFO:************ Launch the Browser **************
+06/27/22 02:44:51 P:INFO:************ Launch the Browser **************
+06/27/22 02:44:57 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 02:45:07 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 02:45:15 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 02:45:17 P:INFO:********** Click on Login button **************
+06/27/22 02:46:05 P:INFO:
+
+06/27/22 02:46:05 P:INFO:====== WebDriver manager ======
+06/27/22 02:46:05 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:46:05 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:46:05 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:46:07 P:INFO:************ Launch the Browser **************
+06/27/22 02:46:17 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 02:46:17 P:INFO:
+
+06/27/22 02:46:17 P:INFO:====== WebDriver manager ======
+06/27/22 02:46:18 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:46:18 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:46:18 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:46:20 P:INFO:************ Launch the Browser **************
+06/27/22 02:46:21 P:INFO:************ Launch the Browser **************
+06/27/22 02:46:27 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 02:46:37 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 02:46:46 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 02:46:48 P:INFO:********** Click on Login button **************
+06/27/22 02:52:31 P:INFO:
+
+06/27/22 02:52:31 P:INFO:====== WebDriver manager ======
+06/27/22 02:52:31 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:52:31 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:52:34 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:52:36 P:INFO:************ Launch the Browser **************
+06/27/22 02:52:47 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 02:52:47 P:INFO:
+
+06/27/22 02:52:47 P:INFO:====== WebDriver manager ======
+06/27/22 02:52:47 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:52:47 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:52:47 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 02:52:49 P:INFO:************ Launch the Browser **************
+06/27/22 02:52:50 P:INFO:************ Launch the Browser **************
+06/27/22 02:52:56 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 02:53:06 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 02:53:15 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 02:53:17 P:INFO:********** Click on Login button **************
+06/27/22 02:59:56 P:INFO:
+
+06/27/22 02:59:56 P:INFO:====== WebDriver manager ======
+06/27/22 02:59:56 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 02:59:56 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 02:59:58 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:00:00 P:INFO:************ Launch the Browser **************
+06/27/22 03:00:10 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 03:00:10 P:INFO:
+
+06/27/22 03:00:10 P:INFO:====== WebDriver manager ======
+06/27/22 03:00:10 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:00:10 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:00:10 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:00:12 P:INFO:************ Launch the Browser **************
+06/27/22 03:00:14 P:INFO:************ Launch the Browser **************
+06/27/22 03:00:20 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:00:30 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:00:38 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:00:41 P:INFO:********** Click on Login button **************
+06/27/22 03:04:26 P:INFO:
+
+06/27/22 03:04:26 P:INFO:====== WebDriver manager ======
+06/27/22 03:04:27 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:04:27 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:04:27 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:04:29 P:INFO:************ Launch the Browser **************
+06/27/22 03:04:40 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 03:04:40 P:INFO:
+
+06/27/22 03:04:40 P:INFO:====== WebDriver manager ======
+06/27/22 03:04:40 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:04:40 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:04:40 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:04:42 P:INFO:************ Launch the Browser **************
+06/27/22 03:04:44 P:INFO:************ Launch the Browser **************
+06/27/22 03:04:50 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:05:00 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:05:08 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:05:10 P:INFO:********** Click on Login button **************
+06/27/22 03:45:54 P:INFO:
+
+06/27/22 03:45:54 P:INFO:====== WebDriver manager ======
+06/27/22 03:45:54 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:45:54 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:45:54 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:45:57 P:INFO:************ Launch the Browser **************
+06/27/22 03:46:07 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 03:46:07 P:INFO:
+
+06/27/22 03:46:07 P:INFO:====== WebDriver manager ======
+06/27/22 03:46:07 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:46:07 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:46:08 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:46:10 P:INFO:************ Launch the Browser **************
+06/27/22 03:46:12 P:INFO:************ Launch the Browser **************
+06/27/22 03:46:18 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:46:29 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:46:37 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:46:39 P:INFO:********** Click on Login button **************
+06/27/22 03:46:44 P:INFO:
+
+06/27/22 03:46:44 P:INFO:====== WebDriver manager ======
+06/27/22 03:46:44 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:46:44 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:46:44 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:46:46 P:INFO:************ Launch the Browser **************
+06/27/22 03:46:57 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 03:46:57 P:INFO:
+
+06/27/22 03:46:57 P:INFO:====== WebDriver manager ======
+06/27/22 03:46:57 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:46:57 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:46:57 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:46:59 P:INFO:************ Launch the Browser **************
+06/27/22 03:47:01 P:INFO:************ Launch the Browser **************
+06/27/22 03:47:07 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:47:17 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:47:25 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:47:27 P:INFO:********** Click on Login button **************
+06/27/22 03:47:38 P:INFO:
+
+06/27/22 03:47:38 P:INFO:====== WebDriver manager ======
+06/27/22 03:47:38 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:47:38 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:47:38 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:47:58 P:INFO:
+
+06/27/22 03:47:58 P:INFO:====== WebDriver manager ======
+06/27/22 03:47:58 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:47:58 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:47:58 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:48:01 P:INFO:************ Launch the Browser **************
+06/27/22 03:48:12 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 03:48:12 P:INFO:
+
+06/27/22 03:48:12 P:INFO:====== WebDriver manager ======
+06/27/22 03:48:12 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:48:12 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:48:12 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:48:15 P:INFO:************ Launch the Browser **************
+06/27/22 03:48:17 P:INFO:************ Launch the Browser **************
+06/27/22 03:48:23 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:48:33 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:48:41 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:48:43 P:INFO:********** Click on Login button **************
+06/27/22 03:48:54 P:INFO:
+
+06/27/22 03:48:54 P:INFO:====== WebDriver manager ======
+06/27/22 03:48:54 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:48:54 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:48:55 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:53:24 P:INFO:
+
+06/27/22 03:53:24 P:INFO:====== WebDriver manager ======
+06/27/22 03:53:24 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:53:24 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:53:24 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:53:26 P:INFO:************ Launch the Browser **************
+06/27/22 03:53:37 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 03:53:37 P:INFO:
+
+06/27/22 03:53:37 P:INFO:====== WebDriver manager ======
+06/27/22 03:53:37 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:53:37 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:53:38 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:53:40 P:INFO:************ Launch the Browser **************
+06/27/22 03:53:41 P:INFO:************ Launch the Browser **************
+06/27/22 03:53:47 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:53:57 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:54:06 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:54:08 P:INFO:********** Click on Login button **************
+06/27/22 03:54:18 P:INFO:
+
+06/27/22 03:54:18 P:INFO:====== WebDriver manager ======
+06/27/22 03:54:18 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:54:18 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:54:18 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:54:20 P:INFO:************ Launch the Browser **************
+06/27/22 03:54:22 P:INFO:************ Launch the Browser **************
+06/27/22 03:54:28 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:54:38 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:54:46 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:54:49 P:INFO:********** Click on Login button **************
+06/27/22 03:56:39 P:INFO:
+
+06/27/22 03:56:39 P:INFO:====== WebDriver manager ======
+06/27/22 03:56:40 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:56:40 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:56:40 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:56:42 P:INFO:************ Launch the Browser **************
+06/27/22 03:56:53 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 03:56:53 P:INFO:
+
+06/27/22 03:56:53 P:INFO:====== WebDriver manager ======
+06/27/22 03:56:53 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:56:53 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:56:53 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:56:55 P:INFO:************ Launch the Browser **************
+06/27/22 03:56:57 P:INFO:************ Launch the Browser **************
+06/27/22 03:57:03 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:57:13 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:57:21 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:57:23 P:INFO:********** Click on Login button **************
+06/27/22 03:57:34 P:INFO:
+
+06/27/22 03:57:34 P:INFO:====== WebDriver manager ======
+06/27/22 03:57:34 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 03:57:34 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 03:57:34 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 03:57:36 P:INFO:************ Launch the Browser **************
+06/27/22 03:57:38 P:INFO:************ Launch the Browser **************
+06/27/22 03:57:44 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 03:57:55 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 03:58:03 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 03:58:05 P:INFO:********** Click on Login button **************
+06/27/22 04:01:07 P:INFO:
+
+06/27/22 04:01:07 P:INFO:====== WebDriver manager ======
+06/27/22 04:01:07 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:01:07 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:01:08 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:01:10 P:INFO:************ Launch the Browser **************
+06/27/22 04:01:21 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 04:01:21 P:INFO:
+
+06/27/22 04:01:21 P:INFO:====== WebDriver manager ======
+06/27/22 04:01:21 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:01:21 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:01:21 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:01:23 P:INFO:************ Launch the Browser **************
+06/27/22 04:01:25 P:INFO:************ Launch the Browser **************
+06/27/22 04:01:31 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:01:42 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:01:50 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:01:52 P:INFO:********** Click on Login button **************
+06/27/22 04:02:02 P:INFO:
+
+06/27/22 04:02:02 P:INFO:====== WebDriver manager ======
+06/27/22 04:02:02 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:02:02 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:02:02 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:02:05 P:INFO:************ Launch the Browser **************
+06/27/22 04:02:07 P:INFO:************ Launch the Browser **************
+06/27/22 04:02:13 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:02:23 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:02:31 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:02:33 P:INFO:********** Click on Login button **************
+06/27/22 04:03:57 P:INFO:
+
+06/27/22 04:03:57 P:INFO:====== WebDriver manager ======
+06/27/22 04:03:57 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:03:57 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:03:57 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:04:01 P:INFO:************ Launch the Browser **************
+06/27/22 04:04:11 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 04:04:11 P:INFO:
+
+06/27/22 04:04:11 P:INFO:====== WebDriver manager ======
+06/27/22 04:04:11 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:04:11 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:04:12 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:04:14 P:INFO:************ Launch the Browser **************
+06/27/22 04:04:15 P:INFO:************ Launch the Browser **************
+06/27/22 04:04:21 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:04:32 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:04:40 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:04:42 P:INFO:********** Click on Login button **************
+06/27/22 04:04:52 P:INFO:
+
+06/27/22 04:04:52 P:INFO:====== WebDriver manager ======
+06/27/22 04:04:52 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:04:52 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:04:52 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:04:54 P:INFO:************ Launch the Browser **************
+06/27/22 04:04:56 P:INFO:************ Launch the Browser **************
+06/27/22 04:05:02 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:05:13 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:05:21 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:05:23 P:INFO:********** Click on Login button **************
+06/27/22 04:06:59 P:INFO:
+
+06/27/22 04:06:59 P:INFO:====== WebDriver manager ======
+06/27/22 04:06:59 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:06:59 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:06:59 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:07:01 P:INFO:************ Launch the Browser **************
+06/27/22 04:07:11 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 04:07:11 P:INFO:
+
+06/27/22 04:07:11 P:INFO:====== WebDriver manager ======
+06/27/22 04:07:12 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:07:12 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:07:12 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:07:14 P:INFO:************ Launch the Browser **************
+06/27/22 04:07:15 P:INFO:************ Launch the Browser **************
+06/27/22 04:07:21 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:07:32 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:07:40 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:07:42 P:INFO:********** Click on Login button **************
+06/27/22 04:07:52 P:INFO:
+
+06/27/22 04:07:52 P:INFO:====== WebDriver manager ======
+06/27/22 04:07:52 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:07:52 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:07:53 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:07:55 P:INFO:************ Launch the Browser **************
+06/27/22 04:07:57 P:INFO:************ Launch the Browser **************
+06/27/22 04:08:03 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:08:13 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:08:21 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:08:24 P:INFO:********** Click on Login button **************
+06/27/22 04:11:55 P:INFO:
+
+06/27/22 04:11:55 P:INFO:====== WebDriver manager ======
+06/27/22 04:11:56 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:11:56 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:11:56 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:11:58 P:INFO:************ Launch the Browser **************
+06/27/22 04:12:11 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 04:12:11 P:INFO:
+
+06/27/22 04:12:11 P:INFO:====== WebDriver manager ======
+06/27/22 04:12:11 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:12:11 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:12:12 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:12:14 P:INFO:************ Launch the Browser **************
+06/27/22 04:12:17 P:INFO:************ Launch the Browser **************
+06/27/22 04:12:27 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:12:37 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:12:45 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:12:47 P:INFO:********** Click on Login button **************
+06/27/22 04:12:57 P:INFO:
+
+06/27/22 04:12:57 P:INFO:====== WebDriver manager ======
+06/27/22 04:12:57 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:12:57 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:12:58 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:13:00 P:INFO:************ Launch the Browser **************
+06/27/22 04:13:04 P:INFO:************ Launch the Browser **************
+06/27/22 04:13:12 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:13:22 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:13:30 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:13:32 P:INFO:********** Click on Login button **************
+06/27/22 04:14:44 P:INFO:
+
+06/27/22 04:14:44 P:INFO:====== WebDriver manager ======
+06/27/22 04:14:44 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:14:44 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:14:45 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:14:47 P:INFO:************ Launch the Browser **************
+06/27/22 04:14:59 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 04:15:00 P:INFO:
+
+06/27/22 04:15:00 P:INFO:====== WebDriver manager ======
+06/27/22 04:15:00 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:15:00 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:15:00 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:15:02 P:INFO:************ Launch the Browser **************
+06/27/22 04:15:06 P:INFO:************ Launch the Browser **************
+06/27/22 04:15:14 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:15:24 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:15:32 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:15:35 P:INFO:********** Click on Login button **************
+06/27/22 04:15:45 P:INFO:
+
+06/27/22 04:15:45 P:INFO:====== WebDriver manager ======
+06/27/22 04:15:45 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:15:45 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:15:45 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:15:47 P:INFO:************ Launch the Browser **************
+06/27/22 04:15:50 P:INFO:************ Launch the Browser **************
+06/27/22 04:15:59 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:16:09 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:16:17 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:16:19 P:INFO:********** Click on Login button **************
+06/27/22 04:17:30 P:INFO:
+
+06/27/22 04:17:30 P:INFO:====== WebDriver manager ======
+06/27/22 04:17:30 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:17:30 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:17:31 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:17:33 P:INFO:************ Launch the Browser **************
+06/27/22 04:17:46 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 04:17:46 P:INFO:
+
+06/27/22 04:17:46 P:INFO:====== WebDriver manager ======
+06/27/22 04:17:46 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:17:46 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:17:47 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:17:49 P:INFO:************ Launch the Browser **************
+06/27/22 04:17:54 P:INFO:************ Launch the Browser **************
+06/27/22 04:18:03 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:18:14 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:18:22 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:18:24 P:INFO:********** Click on Login button **************
+06/27/22 04:18:34 P:INFO:
+
+06/27/22 04:18:34 P:INFO:====== WebDriver manager ======
+06/27/22 04:18:34 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:18:34 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:18:37 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:18:39 P:INFO:************ Launch the Browser **************
+06/27/22 04:18:42 P:INFO:************ Launch the Browser **************
+06/27/22 04:18:49 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:18:59 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:19:08 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:19:10 P:INFO:********** Click on Login button **************
+06/27/22 04:22:15 P:INFO:
+
+06/27/22 04:22:15 P:INFO:====== WebDriver manager ======
+06/27/22 04:22:15 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:22:15 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:22:18 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:22:21 P:INFO:************ Launch the Browser **************
+06/27/22 04:22:34 P:INFO:************* Home Page Title verification is passed *************
+06/27/22 04:22:34 P:INFO:
+
+06/27/22 04:22:34 P:INFO:====== WebDriver manager ======
+06/27/22 04:22:34 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:22:34 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:22:35 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:22:37 P:INFO:************ Launch the Browser **************
+06/27/22 04:22:40 P:INFO:************ Launch the Browser **************
+06/27/22 04:22:47 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:22:58 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:23:06 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:23:08 P:INFO:********** Click on Login button **************
+06/27/22 04:23:18 P:INFO:
+
+06/27/22 04:23:18 P:INFO:====== WebDriver manager ======
+06/27/22 04:23:19 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:23:19 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:23:19 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:23:21 P:INFO:************ Launch the Browser **************
+06/27/22 04:23:26 P:INFO:************ Launch the Browser **************
+06/27/22 04:23:33 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:23:44 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:23:52 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:23:54 P:INFO:********** Click on Login button **************
+06/27/22 04:27:27 P:INFO:
+
+06/27/22 04:27:27 P:INFO:====== WebDriver manager ======
+06/27/22 04:27:27 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:27:27 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:27:27 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:27:29 P:INFO:************ Launch the Browser **************
+06/27/22 04:27:38 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:27:48 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:27:56 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:27:59 P:INFO:********** Click on Login button **************
+06/27/22 04:30:30 P:INFO:
+
+06/27/22 04:30:30 P:INFO:====== WebDriver manager ======
+06/27/22 04:30:31 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:30:31 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:30:31 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:30:34 P:INFO:************ Launch the Browser **************
+06/27/22 04:30:42 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:30:52 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:31:00 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:31:02 P:INFO:********** Click on Login button **************
+06/27/22 04:34:19 P:INFO:
+
+06/27/22 04:34:19 P:INFO:====== WebDriver manager ======
+06/27/22 04:34:19 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 04:34:19 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 04:34:20 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 04:34:22 P:INFO:************ Launch the Browser **************
+06/27/22 04:34:30 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 04:34:40 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 04:34:49 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 04:34:51 P:INFO:********** Click on Login button **************
+06/27/22 05:28:52 P:INFO:
+
+06/27/22 05:28:52 P:INFO:====== WebDriver manager ======
+06/27/22 05:28:52 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 05:28:52 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 05:28:52 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 05:28:55 P:INFO:************ Launch the Browser **************
+06/27/22 05:29:02 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 05:29:12 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 05:29:20 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 05:29:22 P:INFO:********** Click on Login button **************
+06/27/22 05:30:22 P:INFO:
+
+06/27/22 05:30:22 P:INFO:====== WebDriver manager ======
+06/27/22 05:30:22 P:INFO:Current google-chrome version is 103.0.5060
+06/27/22 05:30:22 P:INFO:Get LATEST chromedriver version for 103.0.5060 google-chrome
+06/27/22 05:30:22 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
+06/27/22 05:30:24 P:INFO:************ Launch the Browser **************
+06/27/22 05:30:31 P:INFO:******* Enter the Username *******Infoquick
+06/27/22 05:30:41 P:INFO:******* Enter the Password *******Infoquick@123
+06/27/22 05:30:50 P:INFO:******* Click the Captcha checkbox *******
+06/27/22 05:30:52 P:INFO:********** Click on Login button **************
